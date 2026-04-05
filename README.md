@@ -137,6 +137,10 @@ http://localhost:5173
 
 ---
 
+#  👨‍💻 Team Leader
+
+- Srishti Raj
+
 # 👨‍💻 Team Members
 
 - Prince Kumar
